@@ -1,6 +1,6 @@
 package b2tkt.sample;
 
-//This is a test
+//This is a test extra comment
 public class Constants
 {
 
